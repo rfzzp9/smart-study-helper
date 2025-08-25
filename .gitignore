@@ -120,6 +120,15 @@ obj/
 .idea/jarRepositories.xml
 .idea/navEditor.xml
 
+# Additional IntelliJ IDEA files
+.idea/deploymentTargetSelector.xml
+.idea/kotlinc.xml
+.idea/migrations.xml
+.idea/inspectionProfiles/
+.idea/runConfigurations/
+.idea/sonarlint/
+.idea/git_toolbox_prj.xml
+
 # Legacy Eclipse project files
 .classpath
 .project
